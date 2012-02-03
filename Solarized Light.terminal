@@ -171,10 +171,10 @@
 	<data>
 	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
 	AAGGoKQHCBESVSRudWxs1AkKCwwNDg8QViRjbGFzc1ZOU05hbWVWTlNTaXplWE5TZkZs
-	YWdzgAOAAiNAJgAAAAAAABAQXU1lbmxvLVJlZ3VsYXLSExQVFlokY2xhc3NuYW1lWCRj
-	bGFzc2VzVk5TRm9udKIVF1hOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEaG1Ryb290
-	gAEIERojLTI3PEJLUllgaWttdniGi5afpqmyxMfMAAAAAAAAAQEAAAAAAAAAHAAAAAAA
-	AAAAAAAAAAAAAM4=
+	YWdzgAOAAiNAJgAAAAAAABAQVk1vbmFjb9ITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNW
+	TlNGb250ohUXWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RobVHJvb3SAAQgRGiMt
+	Mjc8QktSWWBpa212eH+Ej5ifoqu9wMUAAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAA
+	AAAAxw==
 	</data>
 	<key>FontAntialias</key>
 	<true/>
@@ -193,6 +193,12 @@
 	aXZlctEXGFRyb290gAEIERojLTI3O0FIT1xiZGaRlqGqsrW+0NPYAAAAAAAAAQEAAAAA
 	AAAAGQAAAAAAAAAAAAAAAAAAANo=
 	</data>
+	<key>ShowCommandKeyInTitle</key>
+	<false/>
+	<key>ShowDimensionsInTitle</key>
+	<false/>
+	<key>ShowShellCommandInTitle</key>
+	<false/>
 	<key>TerminalType</key>
 	<string>xterm-256color</string>
 	<key>TextBoldColor</key>
@@ -265,6 +271,8 @@
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
 	ZmZmg1MTpj6DeHnQPoPQg+A+AYY=
 	</data>
+	<key>columnCount</key>
+	<integer>80</integer>
 	<key>cyanColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
@@ -287,6 +295,10 @@
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
 	ZmZmg6i7UT+DUATePYMl2hA+AYY=
 	</data>
+	<key>rowCount</key>
+	<integer>24</integer>
+	<key>shellExitAction</key>
+	<integer>1</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 	<key>whiteColour</key>
