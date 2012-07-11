@@ -1,9 +1,9 @@
-Solarized - OS X Lion Terminal.App color theme
+Solarized - OS X 10.7+ Terminal.App color theme
 ==============================================
 
 Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com>
 
-Adapted for OS X Lion Terminal.app by Tomislav Filipčić <tomislav@me.com>
+Adapted for OS X 10.7+ Terminal.app by Tomislav Filipčić <tomislav@vault42.org>
 
 Visit the [Solarized homepage]
 ------------------------------
@@ -25,7 +25,8 @@ github, see the link above to the Solarized homepage or visit the main [Solarize
 Installation
 ------------
 
-Double click to install or import into Terminal.app preferences.
+OS X 10.7 Lion: Double click to install or import into Terminal.app preferences.
+OS X 10.8 Mountain Lion: Import into Terminal.app preferences.
 
 The Values
 ----------
