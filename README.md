@@ -15,12 +15,12 @@ other applications.
 Downloads
 ---------
 
-If you have come across this colorscheme via the [Lion Terminal.app repository] on 
+If you have come across this colorscheme via the [OS X Terminal.app repository] on 
 github, see the link above to the Solarized homepage or visit the main [Solarized repository].
 
 [Solarized homepage]:    http://ethanschoonover.com/solarized
 [Solarized repository]:  https://github.com/altercation/solarized
-[Lion Terminal.app repository]:  https://github.com/tomislav/osx-lion-terminal.app-colors-solarized
+[OS X Terminal.app repository]:  https://github.com/tomislav/osx-terminal.app-colors-solarized
 
 Installation
 ------------
