@@ -3,7 +3,7 @@ Solarized - OS X 10.7+ Terminal.App color theme
 
 Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com>
 
-Adapted for OS X 10.7+ Terminal.app by Tomislav Filipčić <tf@the42.io>
+Adapted for OS X 10.7+ Terminal.app by Tomislav Filipčić <tomislav@me.com>
 
 Visit the [Solarized homepage]
 ------------------------------
